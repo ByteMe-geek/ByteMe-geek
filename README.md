@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ByteMe-geek&count_private=true&show_icons=true&theme=radical&hide_rank=true" alt="Annesa's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ByteMe-geek&count_private=true&show_icons=true&theme=radical&hide_rank=true&hide_title=true" alt="Annesa's GitHub stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMe-geek&layout=compact&theme=radical" alt="Top Languages" />
