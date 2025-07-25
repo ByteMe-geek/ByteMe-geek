@@ -5,4 +5,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMe-geek&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByteMe-geek&theme=radical)
