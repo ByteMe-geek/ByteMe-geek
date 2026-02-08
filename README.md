@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Im Annesa <br>A passionate procastinator trying to develop skills
+Hi👋, I'm Annesa <br> passionate procastinator trying to develop skills
 
 
 ## 🌐 Socials:
